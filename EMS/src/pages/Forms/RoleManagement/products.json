@@ -1,0 +1,105 @@
+[
+    {
+        "CategoryName": "Technical",
+        "RoleId": 1,
+        "RoleName": "Clark",
+        "Vacancy":300,
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+    {
+        "CategoryName": "Technical",
+        "RoleId": 2,
+        "RoleName": "Section Engineer",
+        "Vacancy":300,
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+    {
+        "CategoryName": "Technical",
+        "RoleId": 3,
+        "RoleName": "Senior Clark",
+        "Vacancy":300,
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+    {
+        "CategoryName": "Non Technical",
+        "RoleId": 1,
+        "RoleName": "Clark",
+        "Vacancy":300,
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+    {
+        "CategoryName": "Non Technical",
+        "RoleId": 2,
+        "RoleName": "Senior Clark",
+        "Vacancy":300,
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+    {
+        "CategoryName": "Non Technical",
+        "RoleId": 3,
+        "RoleName": "Law Officer",
+        "Vacancy":300,
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+   
+   
+   
+    {
+        "CategoryName": "Departmental",
+        "RoleId": 1,
+        "RoleName": "Law Officer",
+        "Vacancy":300,
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+    {
+        "CategoryName": "Departmental",
+        "RoleId": 2,
+        "RoleName": "Section Officer",
+        "Vacancy":300,
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    },
+    {
+        "CategoryName": "Departmental",
+        "RoleId": 3,
+        "RoleName": "Law Officer",
+        "Vacancy":300,
+        "Category": {
+            "CategoryID": 1,
+            "CategoryName": "Beverages",
+            "Description": "Soft drinks, coffees, teas, beers, and ales"
+        }
+    }
+    
+]
